@@ -1,0 +1,10 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .custom-text {
+      font-family: 'Brush Script MT', 'Pacifico', cursive;
+      font-size: 100px;
+      fill: #FFD43B;
+    }
+  </style>
+  <text x="50" y="140" class="custom-text">Ai.554</text>
+</svg>
